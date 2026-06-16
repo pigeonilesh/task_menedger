@@ -77,13 +77,13 @@
                     Margin="5"
                     Click="CompleteBtn_Click"/>
             <Button Name="DeleteBtn"
-                    Content="Выполнено"
+                    Content="Удалить"
                     Width="150"
                     Height="35"
                     Margin="5"
                     Click="DeleteBtn_Click"/>
             <Button Name="SortBtn"
-                    Content="Выполнено"
+                    Content="Сортировать"
                     Width="150"
                     Height="35"
                     Margin="5"
